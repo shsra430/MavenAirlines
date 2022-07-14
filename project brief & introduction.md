@@ -63,7 +63,7 @@ Some of the overall figures are as follows:
 
 3.  The second part of the analysis segments the customers based on whether they are **returning** or **first time** customers to the business. This way, different campaigns can be designed specifically for the different types of customer base.
 
-The final dashboard was built using Microsoft Power BI and it can be found [here](https://github.com/shsra430/MavenAirlines/blob/main/MAVEN%20AIRLINES%20Github%20Report%20PDF.pdf).
+The final dashboard was built using Microsoft Power BI and it can be found [here](https://github.com/shsra430/MavenAirlines/blob/main/Maven%20Airlines%20Final%20Dashboard.png). Click [here](https://github.com/shsra430/MavenAirlines/blob/main/MAVEN%20AIRLINES%20Github%20Report%20PDF.pdf) for more visualizations.
 ### Recommendations for next-steps
 1.  **82%** of respondents are returning customers. The average profile of a returning customer is made up of people **between 35 & 60 years** of age. Most of these returning customers also travel by Business & Economy class, with very few traveling Economy Plus. About 53.53% of the returning customers travel **less than 1000 miles** in flight distance with 36% satisfaction rate. Therefore, the first action point could be to focus on **business & economy classes in shorter flights**. 
 <img width="331" alt="image" src="https://user-images.githubusercontent.com/54994083/178770762-858f6b6c-e366-4e96-a861-ab93eb3af997.png">
