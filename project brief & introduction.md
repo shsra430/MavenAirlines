@@ -28,6 +28,7 @@ Mode	39
 <p class="text-justify">
 The customer type is a categorical variable with two distinct values which are: ‘Returning’ and ‘First-time’. This is an important data point as it allows us to segment the data and recognize if we can tie specific sentiments to a specific basket of customers. It also helps to understand our existing customer groups’ sentiments further and develop strategies in the direction of customer retention. Some of the key business questions that this analysis aims to answer are:
 </p>
+
 1.  Which percentage of the airline passengers are satisfied ? 
 2.  Does it vary by customer type ? What type of travel ?
 3.  What is the customer profile for a repeating airline passenger ?
